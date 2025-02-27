@@ -16,5 +16,4 @@ The Detection Lab project aimed to establish a controlled environment for simula
 - Security Information and Event Management (SIEM) system for log ingestion and analysis.
 -  Network analysis tools (such as Wireshark) for capturing and examining network traffic.
 
-## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
+
